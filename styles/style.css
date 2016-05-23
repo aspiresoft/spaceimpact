@@ -1,0 +1,16 @@
+body{
+	background-color:#404040;
+}
+canvas{
+	background-color:black;
+	margin-left:22px;
+	cursor:none;
+}
+p{
+	background-color:black;
+	border:1px solid #808080;
+	margin-left:22px;
+	font-size:16px;
+	color:white;
+	max-width:500px;
+}
